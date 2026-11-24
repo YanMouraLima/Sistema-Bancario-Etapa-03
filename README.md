@@ -7,5 +7,5 @@ A Etapa 3 grava as contas (até 100) em contas.txt e as movimentações (até 50
 4 · Realizar depósito  
 5 · Realizar saque, com saldo suficiente  
 6 · Realizar transferência entre duas contas  
-7 · Exibir o extrato de uma conta 
+7 · Exibir o extrato de uma conta   
 0 · Sair  
