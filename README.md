@@ -1,5 +1,5 @@
 # Sistema-Bancario-Etapa-03
-Etapa 03 - Trabalho da disciplina INF101 - Programação 1 - Univiçosa    
+ 
 A etapa 3 do Sistema Bancário implementa um sistema de gravação em arquivo com registro de até 100 clientes e 500 movimentações. Além disso, possui as seguintes opções para o cliente:  
 1 · Cadastrar conta (até 100)  
 2 · Listar as contas cadastradas  
